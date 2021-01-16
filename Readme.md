@@ -4,6 +4,7 @@
 ## run
 ./out/add
 ## output
+```
 $ ./out/add
 ----------------------------------------------
 ENTER A
@@ -16,6 +17,6 @@ A IS 0005
 B IS 0010
 ADDITION =015.00
 $
-
+```
 # pre-requisites
 ```sudo pacman -S gnucobol ```
